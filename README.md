@@ -40,6 +40,8 @@ This project demonstrates Multiple Sequence Alignment (MSA) of five Heat Shock P
 ## 📂 Repository Contents
 
 - Task2_MSA_Report.pdf
+- [TASK 2.,.pdf](https://github.com/user-attachments/files/30200811/TASK.2.pdf)
+
 - HSP70_Sequences.fasta
 - >sp|P22953|HS701_ARATH Heat shock 70 kDa protein 1 OS=Arabidopsis thaliana OX=3702 GN=HSP70-1 PE=1 SV=3
 MSGKGEGPAIGIDLGTTYSCVGVWQHDRVEIIANDQGNRTTPSYVAFTDSERLIGDAAKN
